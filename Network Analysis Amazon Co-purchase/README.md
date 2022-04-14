@@ -1,4 +1,4 @@
-# NetworkAnalysis
+# Amazon Co-purchase NetworkAnalysis
 Network was collected by crawling the Amazon website. It is based on Customers Who Bought This Item Also Bought feature of the Amazon website. If a product i is frequently co-purchased with product j, the graph contains an undirected edge from i to j. Each product category provided by Amazon defines each ground-truth community.
 
 ![Filtered Graph](https://github.com/ArunitaYen/NetworkAnalysis/blob/main/Network%20Analysis%20Amazon%20Co-purchase/Filtered%20Graph.PNG)
